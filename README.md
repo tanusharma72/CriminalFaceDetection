@@ -19,8 +19,8 @@ When the known image in our database or record is matched with the human in the 
 ![Screenshot (97)](https://github.com/tanusharma72/Criminal-Face_Detection/assets/117889460/ee3c617d-a130-4ebd-9a5c-7f251727504a)
 
 We have use 5 Python Libraries:
-CV2
-Numpy
-face_recoginition
-winsound
-dlib
+CV2,
+Numpy,
+face_recoginition,
+winsound,
+dlib.
